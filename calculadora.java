@@ -8,3 +8,4 @@ public class calculadora {
 	}
 
 }
+1.Suma
